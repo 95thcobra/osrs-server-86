@@ -1,0 +1,310 @@
+[
+  {
+    "id": 3080,
+    "x": 3223,
+    "z": 3214,
+    "direction": "E",
+	"radius":8
+  },
+  {
+    "id": 3078,
+    "x": 3221,
+    "z": 3222,
+    "direction": "E",
+	"radius":8
+  },
+  {
+    "id": 3083,
+    "x": 3219,
+    "z": 3209,
+    "direction": "E",
+	"radius":6
+  },
+  {
+    "id": 5523,
+    "x": 3239,
+    "z": 3222,
+    "direction": "S",
+	"radius":2
+  },
+  {
+    "id": 3079,
+    "x": 3233,
+    "z": 3225,
+    "direction": "S",
+	"radius":5
+  },
+  {
+    "id": 2854,
+    "x": 3231,
+    "z": 3231,
+    "direction": "S",
+	"radius":8
+  },
+  {
+    "id": 306,
+    "x": 3233,
+    "z": 3233,
+    "direction": "S",
+	"radius":3
+  },
+  {
+    "id": 119,
+    "x": 3231,
+    "z": 3228,
+    "direction": "S",
+	"radius":4
+  },
+  {
+    "id": 317,
+    "x": 3229,
+    "z": 3227,
+    "direction": "S",
+	"radius":1
+  },
+  {
+    "id": 311,
+    "x": 3227,
+    "z": 3227,
+    "direction": "E",
+	"radius":1
+  },
+  {
+    "id": 3083,
+    "x": 3232,
+    "z": 3211,
+    "direction": "E",
+	"radius":4
+  },
+  {
+    "id": 3084,
+    "x": 3237,
+    "z": 3203,
+    "direction": "E",
+	"radius":4
+  },
+  {
+    "id": 921,
+    "x": 3243,
+    "z": 3206,
+    "direction": "E",
+	"radius":4
+  },
+  {
+    "id": 3223,
+    "x": 3243,
+    "z": 3213,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 3085,
+    "x": 3242,
+    "z": 3210,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 3080,
+    "x": 3234,
+    "z": 3199,
+    "direction": "E",
+	"radius":4
+  },
+  {
+    "id": 3219,
+    "x": 3235,
+    "z": 3196,
+    "direction": "E",
+	"radius":2
+  },
+  {
+    "id": 505,
+    "x": 3228,
+    "z": 3203,
+    "direction": "E",
+	"radius":4
+  },
+  {
+    "id": 3078,
+    "x": 3232,
+    "z": 3204,
+    "direction": "E",
+	"radius":4
+  },
+  {
+    "id": 3079,
+    "x": 3230,
+    "z": 3237,
+    "direction": "E",
+	"radius":4
+  },
+  {
+    "id": 3085,
+    "x": 3234,
+    "z": 3236,
+    "direction": "E",
+	"radius":4
+  },
+  {
+    "id": 3078,
+    "x": 3225,
+    "z": 3244,
+    "direction": "E",
+	"radius":4
+  },
+  {
+    "id": 3226,
+    "x": 3228,
+    "z": 3247,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 3080,
+    "x": 3218,
+    "z": 3243,
+    "direction": "E",
+	"radius":4
+  },
+  {
+    "id": 3218,
+    "x": 3216,
+    "z": 3238,
+    "direction": "E",
+	"radius":2
+  },
+  {
+    "id": 3217,
+    "x": 3219,
+    "z": 3237,
+    "direction": "E",
+	"radius":2
+  },
+  {
+    "id": 3216,
+    "x": 3217,
+    "z": 3239,
+    "direction": "E",
+	"radius":2
+  },
+  {
+    "id": 506,
+    "x": 3209,
+    "z": 3245,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 507,
+    "x": 3209,
+    "z": 3247,
+    "direction": "E",
+	"radius":2
+  },
+  {
+    "id": 2794,
+    "x": 3208,
+    "z": 3259,
+    "direction": "E",
+	"radius":2
+  },
+  {
+    "id": 2794,
+    "x": 3199,
+    "z": 3260,
+    "direction": "E",
+	"radius":2
+  },
+  {
+    "id": 2794,
+    "x": 3199,
+    "z": 3268,
+    "direction": "E",
+	"radius":2
+  },
+  {
+    "id": 2795,
+    "x": 3202,
+    "z": 3269,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 2795,
+    "x": 3206,
+    "z": 3268,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 1263,
+    "x": 3202,
+    "z": 3272,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 1263,
+    "x": 3203,
+    "z": 3265,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 731,
+    "x": 3199,
+    "z": 3264,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 2802,
+    "x": 3203,
+    "z": 3262,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 2802,
+    "x": 3195,
+    "z": 3263,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 3262,
+    "x": 3210,
+    "z": 3267,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 2794,
+    "x": 3208,
+    "z": 3271,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 2796,
+    "x": 3201,
+    "z": 3272,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 2796,
+    "x": 3197,
+    "z": 3270,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 2695,
+    "x": 3209,
+    "z": 3273,
+    "direction": "E",
+	"radius":4
+  }
+]

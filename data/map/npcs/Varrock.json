@@ -1,0 +1,140 @@
+[
+  //
+  // GRAND EXCHANGE NPCS
+  //
+  {
+    "id": 5086,
+    "x": 3224,
+    "z": 3372,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 5087,
+    "x": 3225,
+    "z": 3370,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 5088,
+    "x": 3229,
+    "z": 3371,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 5089,
+    "x": 3229,
+    "z": 3367,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 5086,
+    "x": 3226,
+    "z": 3367,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 5087,
+    "x": 3224,
+    "z": 3367,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 5088,
+    "x": 3227,
+    "z": 3372,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 5089,
+    "x": 3231,
+    "z": 3369,
+    "direction": "E",
+	"radius":3
+  },
+  {
+    "id": 5088,
+    "x": 3229,
+    "z": 3365,
+    "direction": "E",
+	"radius":2
+  },
+  {
+    "id": 3225,
+    "x": 3188,
+    "z": 3424,
+    "radius": 3
+  },
+
+  //
+  // VARROCK WEST BANK
+  //
+  {
+    "id": 2897,
+    "x": 3187,
+    "z": 3436,
+    "direction": "W"
+  },
+  {
+    "id": 2898,
+    "x": 3187,
+    "z": 3438,
+    "direction": "W"
+  },
+  {
+    "id": 2897,
+    "x": 3187,
+    "z": 3440,
+    "direction": "W"
+  },
+  {
+    "id": 2898,
+    "x": 3187,
+    "z": 3442,
+    "direction": "W"
+  },
+  {
+    "id": 2897,
+    "x": 3187,
+    "z": 3444,
+    "direction": "W"
+  },
+  {
+    "id": 2898,
+    "x": 3187,
+    "z": 3446,
+    "direction": "W"
+  },
+  {
+    "id": 5885,
+    "x": 3170,
+    "z": 3461,
+    "radius": 2,
+    "description": "James, Bond informer"
+  },
+  // GUARDS
+  {
+    "id": 3011,
+    "x": 3173,
+    "z": 3430,
+    "radius": 6
+  },
+  {
+    "id": 3010,
+    "x": 3175,
+    "z": 3429,
+    "radius": 6
+  },
+  {
+    "id": 3010,
+    "x": 3174,
+    "z": 3426,
+    "radius": 6
+  }
+]
